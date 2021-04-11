@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.5.0",
+    "azure": "*",
+    "azure-storage": "^2.10.3",
+    "multipart": "^0.1.5"
+  }
+}
